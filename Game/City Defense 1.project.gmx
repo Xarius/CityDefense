@@ -16,6 +16,7 @@
     <sprite>sprites\bullet</sprite>
     <sprite>sprites\enemy1</sprite>
     <sprite>sprites\turret1</sprite>
+    <sprite>sprites\Test</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
