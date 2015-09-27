@@ -6,18 +6,19 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
+    <sprite>sprites\bullet</sprite>
     <sprite>sprites\citybase</sprite>
+    <sprite>sprites\coredefensenode</sprite>
+    <sprite>sprites\enemy1</sprite>
+    <sprite>sprites\innerdefense</sprite>
+    <sprite>sprites\pillbox_turret</sprite>
     <sprite>sprites\powercore</sprite>
     <sprite>sprites\powernode</sprite>
-    <sprite>sprites\turretnode</sprite>
-    <sprite>sprites\coredefensenode</sprite>
-    <sprite>sprites\innerdefense</sprite>
-    <sprite>sprites\wall</sprite>
-    <sprite>sprites\bullet</sprite>
-    <sprite>sprites\enemy1</sprite>
-    <sprite>sprites\turret1</sprite>
-    <sprite>sprites\Test</sprite>
     <sprite>sprites\sprite11</sprite>
+    <sprite>sprites\Test</sprite>
+    <sprite>sprites\turret1</sprite>
+    <sprite>sprites\turretnode</sprite>
+    <sprite>sprites\wall</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -45,8 +46,9 @@
       <object>objects\obj_bullet</object>
     </objects>
     <objects name="Towers">
-      <object>objects\obj_turret</object>
+      <object>objects\obj_pillbox</object>
       <object>objects\obj_smalltower</object>
+      <object>objects\obj_turret</object>
     </objects>
     <object>objects\obj_enemytimer</object>
     <object>objects\obj_gameover</object>
