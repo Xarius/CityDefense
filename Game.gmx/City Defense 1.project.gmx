@@ -6,19 +6,28 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\bullet</sprite>
-    <sprite>sprites\citybase</sprite>
-    <sprite>sprites\coredefensenode</sprite>
-    <sprite>sprites\enemy1</sprite>
-    <sprite>sprites\innerdefense</sprite>
-    <sprite>sprites\pillbox_turret</sprite>
-    <sprite>sprites\powercore</sprite>
-    <sprite>sprites\powernode</sprite>
+    <sprites name="City">
+      <sprite>sprites\citybase</sprite>
+      <sprite>sprites\powercore</sprite>
+      <sprite>sprites\wall</sprite>
+      <sprite>sprites\powernode</sprite>
+    </sprites>
+    <sprites name="Enemies">
+      <sprite>sprites\enemy1</sprite>
+      <sprite>sprites\spr_swarmer</sprite>
+    </sprites>
+    <sprites name="Projectiles">
+      <sprite>sprites\bullet</sprite>
+    </sprites>
+    <sprites name="Turrets">
+      <sprite>sprites\coredefensenode</sprite>
+      <sprite>sprites\innerdefense</sprite>
+      <sprite>sprites\pillbox_turret</sprite>
+      <sprite>sprites\turret1</sprite>
+      <sprite>sprites\turretnode</sprite>
+    </sprites>
     <sprite>sprites\sprite11</sprite>
     <sprite>sprites\Test</sprite>
-    <sprite>sprites\turret1</sprite>
-    <sprite>sprites\turretnode</sprite>
-    <sprite>sprites\wall</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
