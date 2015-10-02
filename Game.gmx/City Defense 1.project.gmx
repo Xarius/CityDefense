@@ -25,6 +25,7 @@
       <sprite>sprites\pillbox_turret</sprite>
       <sprite>sprites\turret1</sprite>
       <sprite>sprites\turretnode</sprite>
+      <sprite>sprites\spr_smallturret</sprite>
     </sprites>
     <sprite>sprites\sprite11</sprite>
     <sprite>sprites\Test</sprite>
