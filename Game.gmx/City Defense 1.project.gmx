@@ -9,8 +9,9 @@
     <sprites name="City">
       <sprite>sprites\citybase</sprite>
       <sprite>sprites\powercore</sprite>
-      <sprite>sprites\wall</sprite>
       <sprite>sprites\powernode</sprite>
+      <sprite>sprites\spr_miner</sprite>
+      <sprite>sprites\wall</sprite>
     </sprites>
     <sprites name="Enemies">
       <sprite>sprites\enemy1</sprite>
